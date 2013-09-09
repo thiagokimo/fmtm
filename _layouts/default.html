@@ -2,17 +2,13 @@
 <html>
     {% include default/head.html %}
     <body>
-      <div class="container">
+
         {% include default/navbar.html %}
 
-        <div class="jumbotron">
-          <div class="container">
-          <h1>Lorem ipsum dolor sit amet.</h1>
-          </div>
+        <div class="container">
+          {{content}}
         </div>
 
-
-      </div>
         {% include default/bootstrap-scripts.html %}
     </body>
 </html>
