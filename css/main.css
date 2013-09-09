@@ -1,1 +1,6 @@
-body { padding-top: 70px; }
+body { padding-top: 51px; }
+
+#nav-logo {
+  width: 200px;
+  margin-right: 50px;
+}
