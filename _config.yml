@@ -2,6 +2,8 @@ name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
 
+baseurl: http://thiagokimo.github.io/fmtm-new/
+
 last_event: "Campeões da X Copa MG"
 
 last_event_pics: ["http://1.bp.blogspot.com/-AepHPbB2SUg/UiyNelS_8iI/AAAAAAAABw8/xWUYOUmoItk/s1600/DSC00303.JPG",
