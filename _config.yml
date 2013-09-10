@@ -2,7 +2,7 @@ name: Federação Mineira de Tênis de Mesa
 markdown: redcarpet
 pygments: true
 
-baseurl: http://thiagokimo.github.io/fmtm-new/
+baseurl: http://thiagokimo.github.io/fmtm-new
 
 last_event: "X Copa MG"
 
