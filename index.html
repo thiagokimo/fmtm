@@ -3,14 +3,5 @@ layout: home
 title: Federação Mineira de Tênis de Mesa
 ---
 
-<div id="home">
-  <h1>Últimas Notícias</h1>
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <!-- <span>{{ post.data }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a> -->
-        <p>{{ post.excerpt }}</p>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<h1>Últimas Notícias</h1>
+{% include default/news.html %}

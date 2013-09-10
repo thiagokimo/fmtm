@@ -1,0 +1,12 @@
+<div id="posts">
+  {% for post in site.posts %}
+    <div class="row">
+      <div class="col-md-10">
+        {{post.excerpt}}
+      <p><a href="{{site.baseurl}}{{ post.url }}">Leia mais...</a></p>
+      </div>
+      <div class="col-md-2">Adicionar compartilhamento nas redes sociais</div>
+    </div>
+    <hr>
+  {% endfor %}
+</div>
