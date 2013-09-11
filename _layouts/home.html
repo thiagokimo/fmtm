@@ -1,22 +1,31 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+    {% include default/head.html %}
+    <body>
 
-<div class="row">
-  <div class="col-md-6">
-    <h1>{{site.last_event}}</h1>
-    {% include home/slider.html %}
-  </div>
+        {% include default/navbar.html %}
 
-  <div class="col-md-6">
-    Colocar alguns widgets
-  </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+              <h1>{{site.last_event}}</h1>
+              {% include home/slider.html %}
+            </div>
 
-</div>
+            <div class="col-md-6">
+              Colocar alguns widgets
+            </div>
+          </div>
 
-<hr>
+          <hr>
+            {{content}}
+        </div>
 
-<div class="container">
-  {{content}}
-</div>
+        {% include default/bootstrap-scripts.html %}
+        {% include setup/carousel.html %}
+    </body>
+</html>
+
+
+
 
