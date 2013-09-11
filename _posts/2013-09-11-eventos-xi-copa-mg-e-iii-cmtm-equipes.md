@@ -24,7 +24,7 @@ As inscrições deverão ser efetuadas através do e-mail: perfilmg@hotmail.com 
 ###5. Reclamações
 O prazo para reclamações é de 24 horas após o término do prazo de inscrição.
 
-###**6. Condições de Participação**
+###6. Condições de Participação
 ####6.1 Atletas
   6.1.1 - Situações cadastrais FMTM / CBTM atualizadas até a data da inscrição.<br/>
   6.1.2 - TRA 2013 FMTM e CBTM pagas.<br/>
