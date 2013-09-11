@@ -63,5 +63,7 @@ A inscrição na XI Copa MG não dá direito à participação automática na II
 Inscrições para a III Etapa do CMTM Equipes: Atleta filiado: R$ 15,00 e Vinculado: R$ 20,00 (por atleta). Serão ofertadas medalhas para as 1o, 2o e 3o Equipes melhores classificadas.<br/>
 Os eventos seguirão todas as normas da temporada 2013.
 
-Túlio Eduardo <br/>
-FMTM
+<center>
+  Túlio Eduardo <br/>
+  FMTM
+</center>
