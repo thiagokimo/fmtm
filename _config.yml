@@ -4,6 +4,8 @@ pygments: true
 
 baseurl: http://thiagokimo.github.io/fmtm-new
 
+excerpt_separator: "<!-- more -->"
+
 last_event: "X Copa MG"
 
 last_event_pics: ["http://1.bp.blogspot.com/-AepHPbB2SUg/UiyNelS_8iI/AAAAAAAABw8/xWUYOUmoItk/s1600/DSC00303.JPG",
