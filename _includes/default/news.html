@@ -1,20 +1,21 @@
 <div id="posts">
   {% for post in site.posts %}
     <div class="row">
-      <div class="col-md-10">
 
-        <h2>{{post.title}}</h2>
-        <p>{{post.data}}</p>
-
-        {% if post.content contains site.excerpt_separator %}
-          <p>{{ post.content | split: site.excerpt_separator | first }}</p>
-        {% else %}
-          <p>{{ post.content }}</p>
-        {% endif %}
-      <p><a href="{{site.baseurl}}{{ post.url }}">Leia mais...</a></p>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">{{post.title}}</h3>
+          <p>{{post.data}}</p>
+        </div>
+          <div class="panel-body">
+            {% if post.content contains site.excerpt_separator %}
+              <p>{{ post.content | split: site.excerpt_separator | first }}</p>
+              <p><a href="{{site.baseurl}}{{ post.url }}">Leia mais...</a></p>
+            {% else %}
+              <p><a href="{{site.baseurl}}{{ post.url }}">Leia mais...</a></p>
+            {% endif %}
+          </div>
+        </div>
       </div>
-      <div class="col-md-2">Adicionar compartilhamento nas redes sociais</div>
-    </div>
-    <hr>
   {% endfor %}
 </div>
