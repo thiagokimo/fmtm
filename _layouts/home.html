@@ -6,19 +6,16 @@
         {% include default/navbar.html %}
 
         <div class="container">
-          <div class="row">
-            <div class="col-md-6">
-              <h1>{{site.last_event}}</h1>
-              {% include home/slider.html %}
-            </div>
-
-            <div class="col-md-6">
-              Colocar alguns widgets
-            </div>
+          <div class="col-md-8">
+            {{content}}
           </div>
 
-          <hr>
-            {{content}}
+          <div class="col-md-4">
+            {% include home/coming-next.html %}
+            <hr>
+            <h2>Imagens da {{site.last_event}}</h2>
+              {% include home/slider.html %}
+          </div>
         </div>
 
         {% include default/bootstrap-scripts.html %}
