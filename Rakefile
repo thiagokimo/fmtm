@@ -7,6 +7,8 @@ CONFIG = {
   'post_ext' => "md",
 }
 
+PT_BR_MONTHS = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"]
+
 desc "Serve and watch the site (with post limit or drafts)"
 task :watch do |t, args|
   system("jekyll serve --baseurl \"\" -w")
@@ -20,13 +22,14 @@ task :post do
   tags = ENV["tags"] || "[]"
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
   begin
-    require "pry" ; binding.pry
-    date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
+    stringfied_date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
+    date = Time.parse(ENV['date'])
+    month = PT_BR_MONTHS[date.month-1]
   rescue => e
     puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
     exit -1
   end
-  filename = File.join(CONFIG['posts'], "#{date}-#{slug}.#{CONFIG['post_ext']}")
+  filename = File.join(CONFIG['posts'], "#{stringfied_date}-#{slug}.#{CONFIG['post_ext']}")
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
@@ -36,6 +39,7 @@ task :post do
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts "month: \"#{month}\""
     post.puts 'description: ""'
     post.puts "category: "
     post.puts "tags: #{tags}"
