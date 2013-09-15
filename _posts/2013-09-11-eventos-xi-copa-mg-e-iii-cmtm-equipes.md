@@ -1,6 +1,7 @@
 ---
 layout: circular
 title:  "XI Copa MG e III CMTM de Equipes"
+month: "Setembro"
 date:   2013-09-11 13:55:00
 circular-url: "/arquivo/circulares/circularxicopamg2013.pdf"
 ---
