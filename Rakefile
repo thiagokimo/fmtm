@@ -22,8 +22,8 @@ task :post do
   tags = ENV["tags"] || "[]"
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
   begin
-    stringfied_date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
-    date = Time.parse(ENV['date'])
+    date = ENV['date'] ? Time.parse(ENV['date']) : Time.now
+    stringfied_date = date.strftime('%Y-%m-%d')
     month = PT_BR_MONTHS[date.month-1]
   rescue => e
     puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
