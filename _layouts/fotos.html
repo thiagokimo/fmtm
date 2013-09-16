@@ -3,12 +3,15 @@
     {% include default/head.html %}
     <body>
 
-
-        {% include default/navbar.html %}
+    <div id="wrap">
+      {% include default/navbar.html %}
 
         <div class="container">
           {{content}}
         </div>
+    </div>
+    {% include default/footer.html %}
+
 
       {% include default/scripts.html %}
       {% include setup/gallery.html %}

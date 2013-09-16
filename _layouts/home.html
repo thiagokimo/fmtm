@@ -3,7 +3,8 @@
     {% include default/head.html %}
     <body>
 
-        {% include default/navbar.html %}
+    <div id="wrap">
+      {% include default/navbar.html %}
 
         <div class="container">
           <div class="col-md-8">
@@ -17,6 +18,9 @@
               {% include home/slider.html %}
           </div>
         </div>
+    </div>
+
+      {% include default/footer.html %}
 
         {% include default/scripts.html %}
         {% include setup/carousel.html %}
