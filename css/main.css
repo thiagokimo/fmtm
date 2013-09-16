@@ -14,3 +14,7 @@
   font-weight: bold;
 }
 
+#blueimp-image-carousel {
+  background-color: #f9f9f9;
+  box-shadow: none;
+}
