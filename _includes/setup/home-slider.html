@@ -1,12 +1,12 @@
 <script>
 
-  var photosetsURL = "http://api.flickr.com/services/rest/?method=flickr.photosets.getList&api_key=b5898c941da3c04d790e330f5edd66fa&user_id=101918727%40N03&format=json&nojsoncallback=1";
+  var photosetsURL = "http://api.flickr.com/services/rest/?method=flickr.photosets.getList&api_key=bebfb2fd8482f87e8ed61533347b082c&user_id=101918727%40N03&format=json&nojsoncallback=1";
 
   $.ajax(photosetsURL).done(function(sets) {
 
     var photosetId = sets.photosets.photoset[0].id;
 
-    var photosURL = "http://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key=b5898c941da3c04d790e330f5edd66fa&photoset_id="+photosetId+"&format=json&nojsoncallback=1";
+    var photosURL = "http://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key=bebfb2fd8482f87e8ed61533347b082c&photoset_id="+photosetId+"&format=json&nojsoncallback=1";
 
     $.ajax(photosURL).done(function(photos) {
 
