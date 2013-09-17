@@ -6,6 +6,9 @@ baseurl: http://thiagokimo.github.io/fmtm-new
 
 permalink: pretty
 
+paginate: 5
+paginate_path: "pagina-:num"
+
 excerpt_separator: "<!-- more -->"
 
 last_event: "X Copa MG"

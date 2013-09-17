@@ -1,5 +1,5 @@
 <div id="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <div class="row">
 
       <div class="panel panel-default">
@@ -19,4 +19,6 @@
         <hr>
       </div>
   {% endfor %}
+
+  {% include home/pagination.html %}
 </div>
