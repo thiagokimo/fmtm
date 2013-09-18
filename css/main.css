@@ -20,6 +20,7 @@
 }
 
 #lightbox img {
+  margin: 5px;
   width: 75px;
   height: 75px;
   opacity: 0;
