@@ -16,7 +16,51 @@ last_event: "X Copa MG"
 next_event: "XI Copa MG"
 next_event_url: "/2013/09/11/eventos-xi-copa-mg-e-iii-cmtm-equipes/"
 
-last_event_pics: ["http://1.bp.blogspot.com/-AepHPbB2SUg/UiyNelS_8iI/AAAAAAAABw8/xWUYOUmoItk/s1600/DSC00303.JPG",
+image_feed:
+  - name: "X Copa MG"
+    year: 2013
+    pics: ["http://1.bp.blogspot.com/-AepHPbB2SUg/UiyNelS_8iI/AAAAAAAABw8/xWUYOUmoItk/s1600/DSC00303.JPG",
               "http://2.bp.blogspot.com/-i9T_EgdNVos/UiyNmBY4uFI/AAAAAAAABxE/BQxIdF9yJfI/s1600/DSC00306.JPG",
               "http://2.bp.blogspot.com/-TRsLlb9GbcM/UiyNoZXvS0I/AAAAAAAABxM/cZYa6mpRph8/s1600/DSC00308.JPG",
               "http://3.bp.blogspot.com/-emjz17btgDU/UiyNsGpnvuI/AAAAAAAABxU/za4KhBCI3Sk/s1600/DSC00307.JPG"]
+
+  - name: "IX Copa MG e III Etapa CMTM Duplas"
+    year: 2013
+    pics: ["http://2.bp.blogspot.com/-0bu6tClIi2Y/UhOEcSNETkI/AAAAAAAABvo/CwSncWKVO8E/s1600/DSC00254.JPG",
+        "http://1.bp.blogspot.com/-o8Q0SiBbLRM/UhOEbucjH7I/AAAAAAAABvk/KsJ7Ds2ZAkY/s1600/DSC00255.JPG",
+        "http://1.bp.blogspot.com/-Y3J1iOjrCmA/UhOEfVej9DI/AAAAAAAABv0/B1PHlgrIS7g/s1600/DSC00256.JPG",
+        "http://4.bp.blogspot.com/-XYzBEdNqQ48/UhOExL8MYPI/AAAAAAAABv8/veqdrj3g6Eg/s1600/DSC00257.JPG",
+        "http://4.bp.blogspot.com/-AmezA_Y_YpI/UhOExoFU5BI/AAAAAAAABwE/KiEDlh-BJ9M/s1600/DSC00260.JPG",
+        "http://2.bp.blogspot.com/-FPOMUKkkPlg/UhOEx4a4KgI/AAAAAAAABwI/HOP7hn3vzDA/s1600/DSC00261.JPG",
+        "http://3.bp.blogspot.com/-BHLUAnh6n2c/UhOE90WzOLI/AAAAAAAABwU/HlOYp2UnecE/s1600/DSC00265.JPG",
+        "http://1.bp.blogspot.com/-c2QY5Zkam5E/UhOE_a83gQI/AAAAAAAABwc/fBJj1AjJuho/s1600/DSC00267.JPG"]
+
+  - name: "VIII Copa MG e II Etapa CMTM Individual"
+    year: 2013
+    pics: ["http://3.bp.blogspot.com/-xke93PgqCWc/UfvkqpNL4nI/AAAAAAAABqk/N6XCixg_bV0/s1600/27072013096.jpg",
+        "http://1.bp.blogspot.com/-Jpf8bzXN-M4/UfvksnBKn7I/AAAAAAAABq0/op5GH9AoxUE/s1600/27072013097.jpg",
+        "http://2.bp.blogspot.com/-Ik4KAokN5Q8/UfvksVtvOrI/AAAAAAAABqw/3O3MQ5G7urM/s1600/27072013098.jpg",
+        "http://1.bp.blogspot.com/-zk37kzpdEoM/Ufvkx8DaTxI/AAAAAAAABq8/HJ2zK8GWsII/s1600/27072013099.jpg",
+        "http://3.bp.blogspot.com/-StB9ewjQLOI/Ufvk0rX2XPI/AAAAAAAABrI/YUaNUTsVw3I/s1600/27072013103.jpg",
+        "http://3.bp.blogspot.com/-i-QMfdGsUck/Ufvk0vG1ySI/AAAAAAAABrM/F25PZXyyWj0/s1600/27072013104.jpg",
+        "http://1.bp.blogspot.com/-Vv7UTJ_7HeM/Ufvk7OJdpDI/AAAAAAAABrk/1NywjLahUko/s1600/27072013111.jpg",
+        "http://2.bp.blogspot.com/-OFbXJpqVak0/Ufvk63kSPHI/AAAAAAAABrg/pVoFbC7NM-s/s1600/27072013116.jpg",
+        "http://4.bp.blogspot.com/-5LptbzL3tqM/Ufvk61yOPXI/AAAAAAAABrc/H6rkC4TJQeM/s1600/27072013117.jpg",
+        "http://4.bp.blogspot.com/-xKt6KcGbNUI/UfvlA5NcbHI/AAAAAAAABrs/07U-CWdWvu4/s1600/27072013118.jpg",
+        "http://2.bp.blogspot.com/-fTsqtNApu-A/UfvlCaYJ4EI/AAAAAAAABr0/fm3wfWPIH9I/s1600/27072013120.jpg",
+        "http://2.bp.blogspot.com/-A1d54XOus30/UfvlDqgQb7I/AAAAAAAABr8/srpHU6JtLI8/s1600/27072013121.jpg",
+        "http://3.bp.blogspot.com/-lwD5JQQfz7A/UfvlIckvsxI/AAAAAAAABsM/vDDMt7eoBwg/s1600/28072013127.jpg",
+        "http://3.bp.blogspot.com/-MJxMjbXk0ZM/UfvlH1XdIqI/AAAAAAAABsE/UWPbjIxoyAM/s1600/28072013130.jpg",
+        "http://2.bp.blogspot.com/-j82vVxJ5BG8/UfvlMrAwy1I/AAAAAAAABsY/Mdlu17MfBWg/s1600/28072013131.jpg",
+        "http://4.bp.blogspot.com/-Rs7Pd5AotlE/UfvlM4gut0I/AAAAAAAABsc/-kCpxNnKdFg/s1600/28072013132.jpg",
+        "http://2.bp.blogspot.com/-nRjHj6oDAUY/UfvlNk3JU2I/AAAAAAAABsk/N8KFdFxm0RM/s1600/28072013134.jpg",
+        "http://2.bp.blogspot.com/-r9psDotaXhk/UfvlS_XX_WI/AAAAAAAABs0/NlZOXaEroDE/s1600/28072013136.jpg",
+        "http://1.bp.blogspot.com/-E9usYAjtlkI/UfvlST1kg0I/AAAAAAAABss/Y8lTQwPjLh0/s1600/28072013143.jpg",
+        "http://4.bp.blogspot.com/-EP6fO9fyhqQ/UfvlVMUJ0kI/AAAAAAAABs8/SPBqghFS8NI/s1600/28072013139.jpg",
+        "http://3.bp.blogspot.com/-R-6yis93mTY/UfvlXa3tZLI/AAAAAAAABtE/FC91kWIJ5Bc/s1600/28072013148.jpg",
+        "http://1.bp.blogspot.com/-98vdjU4Yu2s/UfvmgQ9MO4I/AAAAAAAABtc/9TFTprCmTQ0/s1600/28072013144.jpg",
+        "http://3.bp.blogspot.com/-hug4w8iwiFc/UfvmhGZAf5I/AAAAAAAABtk/MhDYbw3S7I0/s1600/28072013151.jpg",
+        "http://4.bp.blogspot.com/-oMcArCBrLZI/UfvmmAIyMcI/AAAAAAAABt0/e6uFTDuvIWg/s1600/28072013152.jpg",
+        "http://1.bp.blogspot.com/-n337LiKKVRg/UfvmlLEARUI/AAAAAAAABts/5M1SfIYecDw/s1600/28072013155.jpg",
+        "http://2.bp.blogspot.com/-mj3klIkPkCs/Ufvmm_LmIPI/AAAAAAAABt8/K65OD5QTO98/s1600/28072013156.jpg",
+        "http://3.bp.blogspot.com/-z1k5f7R_nGc/UfvmpEc8s4I/AAAAAAAABuE/-mAP6sVQCbo/s1600/28072013158.jpg"]
