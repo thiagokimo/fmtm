@@ -1,19 +1,12 @@
----
-layout: fotos
-title: Fotos
----
-
-<h1>Fotos</h1>
-<hr>
-
 <div id="lightbox">
   {% for event in site.image_feed %}
-    <h3>{{event.name}} - {{event.year}}</h3>
-    {% for pic in event.pics %}
-      <a href="{{pic}}" title="{{event.name}}">
-        <img src="{{site.baseurl}}/img/loading.gif" data-src="{{pic}}" alt="{{event.name}}">
-      </a>
-    {% endfor %}
+    {% if event.name == page.event_name and event.year == page.year  %}
+      {% for pic in event.pics %}
+        <a href="{{pic}}" title="{{event.name}}">
+          <img src="{{site.baseurl}}/img/loading.gif" data-src="{{pic}}" alt="{{event.name}}">
+        </a>
+      {% endfor %}
+    {% endif %}
   {% endfor %}
 </div>
 
@@ -26,4 +19,3 @@ title: Fotos
   <a class="play-pause"></a>
   <ol class="indicator"></ol>
 </div>
-
