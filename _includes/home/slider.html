@@ -1,20 +1,22 @@
 <div class="well">
   <center><h2>Imagens da {{site.last_event}}</h2></center>
-  <!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
+  <div id="links" style="display:none;">
+    {% for event in site.image_feed %}
+      {% if forloop.first %}
+        {% for pic in event.pics %}
+          <a href="{{pic}}">
+            <img src="{{pic}}">
+          </a>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </div>
   <div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel">
       <div class="slides"></div>
       <h3 class="title"></h3>
       <a class="prev">‹</a>
       <a class="next">›</a>
       <a class="play-pause"></a>
-  </div>
-
-  <div id="links" style="display:none;">
-    {% for pic in site.last_event_pics %}
-      <a href="{{pic}}">
-        <img src="{{pic}}">
-      </a>
-    {% endfor %}
   </div>
 </div>
 
