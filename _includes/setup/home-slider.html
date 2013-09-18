@@ -1,30 +1,9 @@
 <script>
-
-  var photosetsURL = "http://api.flickr.com/services/rest/?method=flickr.photosets.getList&api_key=bebfb2fd8482f87e8ed61533347b082c&user_id=101918727%40N03&format=json&nojsoncallback=1";
-
-  $.ajax(photosetsURL).done(function(sets) {
-
-    var photosetId = sets.photosets.photoset[0].id;
-
-    var photosURL = "http://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key=bebfb2fd8482f87e8ed61533347b082c&photoset_id="+photosetId+"&format=json&nojsoncallback=1";
-
-    $.ajax(photosURL).done(function(photos) {
-
-      var directLinks = [];
-      var baseUrl;
-
-      $.each(photos.photoset.photo, function(index, photo) {
-        baseUrl = 'http://farm' + photo.farm + '.static.flickr.com/' +
-                    photo.server + '/' + photo.id + '_' + photo.secret + '_c.jpg';
-        directLinks.push({href:baseUrl});
-      });
-
-      blueimp.Gallery(directLinks, {
-        container: '#blueimp-image-carousel',
-        carousel: true
-      });
-
-    });
-
-  });
+  blueimp.Gallery(
+      document.getElementById('links').getElementsByTagName('a'),
+      {
+          container: '#blueimp-image-carousel',
+          carousel: true
+      }
+  );
 </script>
