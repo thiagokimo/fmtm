@@ -1,0 +1,8 @@
+<script src="{{site.baseurl}}/js/jquery.unveil.min.js"></script>
+<script>
+  $("img").unveil(200, function() {
+    $(this).load(function() {
+      this.style.opacity = 1;
+    });
+  });
+</script>

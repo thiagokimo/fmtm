@@ -1,31 +1,21 @@
 ---
 layout: fotos
 title: Fotos
-
-feed:
-  - name: "X Copa MG - 2013"
-    pics: ["http://1.bp.blogspot.com/-AepHPbB2SUg/UiyNelS_8iI/AAAAAAAABw8/xWUYOUmoItk/s1600/DSC00303.JPG",
-              "http://2.bp.blogspot.com/-i9T_EgdNVos/UiyNmBY4uFI/AAAAAAAABxE/BQxIdF9yJfI/s1600/DSC00306.JPG",
-              "http://2.bp.blogspot.com/-TRsLlb9GbcM/UiyNoZXvS0I/AAAAAAAABxM/cZYa6mpRph8/s1600/DSC00308.JPG",
-              "http://3.bp.blogspot.com/-emjz17btgDU/UiyNsGpnvuI/AAAAAAAABxU/za4KhBCI3Sk/s1600/DSC00307.JPG"]
-
 ---
 
 <h1>Fotos</h1>
 <hr>
 
-<!-- <div class="jumbotron"> -->
-  <div id="lightbox">
-    {% for event in page.feed %}
-      <h3>{{event.name}}</h3>
-      {% for pic in event.pics %}
-        <a href="{{pic}}">
-          <img src="{{pic}}">
-        </a>
-      {% endfor %}
+<div id="lightbox">
+  {% for event in site.image_feed %}
+    <h3>{{event.name}} - {{event.year}}</h3>
+    {% for pic in event.pics %}
+      <a href="{{pic}}">
+        <img src="{{site.baseurl}}/img/loading.gif" data-src="{{pic}}">
+      </a>
     {% endfor %}
-  </div>
-<!-- </div> -->
+  {% endfor %}
+</div>
 
 <div id="blueimp-gallery" class="blueimp-gallery">
   <div class="slides"></div>

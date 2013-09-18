@@ -20,8 +20,10 @@
 }
 
 #lightbox img {
-  width: 150;
-  height: 150px;
+  width: 75px;
+  height: 75px;
+  opacity: 0;
+  transition: opacity .3s ease-in;
 }
 
 /* Sticky footer styles
