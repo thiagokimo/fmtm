@@ -20,9 +20,9 @@
 }
 
 #lightbox img {
-  margin: 5px;
-  width: 320px;
-  height: 240px;
+  margin: 2px;
+  width: 25%;
+  height: auto;
   opacity: 0;
   transition: opacity .3s ease-in;
 }

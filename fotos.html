@@ -8,12 +8,14 @@ title: Fotos
 
 <div id="lightbox">
   {% for event in site.image_feed %}
-    <h3>{{event.name}} - {{event.year}}</h3>
-    {% for pic in event.pics %}
-      <a href="{{pic}}" title="{{event.name}}">
-        <img src="{{site.baseurl}}/img/loading.gif" data-src="{{pic}}" alt="{{event.name}}">
-      </a>
-    {% endfor %}
+    <div class="well">
+      <h3>{{event.name}} - {{event.year}}</h3>
+      {% for pic in event.pics %}
+        <a href="{{pic}}" title="{{event.name}}">
+          <img src="{{site.baseurl}}/img/loading.gif" data-src="{{pic}}" alt="{{event.name}}">
+        </a>
+      {% endfor %}
+    </div>
   {% endfor %}
 </div>
 
