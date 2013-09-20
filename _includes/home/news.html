@@ -5,7 +5,7 @@
       <div class="panel panel-default">
         <div class="panel-heading">
           <h3 class="panel-title">{{post.title}}</h3>
-          <p>{{post.date | date: "%d de"}} {{post.month}}</p>
+          <p>Postado em {{post.date | date: "%d de"}} {{post.month}}</p>
         </div>
           <div class="panel-body">
             {% if post.content contains site.excerpt_separator %}
