@@ -3,7 +3,7 @@ layout: default
 title: Notícias
 ---
 
-<h1>Arquivo de Notícias</h1>
+<h1>Notícias</h1>
 <hr>
 
 {% for post in site.posts  %}
@@ -18,7 +18,7 @@ title: Notícias
       <ul>
     {% endif %}
 
-    <li><span>{{ post.date | date: "%e" }} de {{post.month}}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    <li> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 
     {% if forloop.last %}
       </ul>
