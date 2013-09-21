@@ -25,10 +25,12 @@ Telefone: (34) 3256-3100 - Ramal 3381
 ###3. Horário
 27/09 (sexta): <br/>
   18:00 : Treinamento<br/>
+
 28/09 (sábado): <br/>
   08:00 : Apresentação de documentos e de comprovantes de inscrição. <br/>
   08:30 : Aquecimento. <br/>
   09:00 : Início dos jogos. <br/>
+
 29/09 (domingo): <br/>
   08:00 : Apresentação de documentos e de comprovantes de inscrição. <br/>
   08:30 : Aquecimento. <br/>
