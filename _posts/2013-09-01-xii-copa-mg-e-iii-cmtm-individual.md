@@ -1,7 +1,7 @@
 ---
 layout: circular
 title: "XII Copa MG e III CMTM Individual"
-month: "Agosto"
+month: "Setembro"
 circular-url: "/arquivo/circulares/circularxiicopamg2013.pdf"
 description: ""
 category:
