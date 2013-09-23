@@ -11,12 +11,19 @@ paginate_path: "pagina-:num"
 
 excerpt_separator: "<!-- more -->"
 
-last_event: "X Copa MG"
+last_event: "XI Copa MG"
 
 next_event: "XII Copa MG e III CMTM Individual"
 next_event_url: "/2013/09/01/xii-copa-mg-e-iii-cmtm-individual/"
 
 image_feed:
+  - name: "XI Copa MG"
+    year: 2013
+    pics: ["http://1.bp.blogspot.com/-h0CM6DQibOE/UkAoIm-p18I/AAAAAAAABxk/L3FfuteGQOA/s1600/DSC00309.JPG",
+          "http://4.bp.blogspot.com/-ZzcZ4uteBwI/UkAoKL_dMII/AAAAAAAABxs/c0W2z8ty_cw/s1600/DSC00317.JPG",
+          "http://3.bp.blogspot.com/-ksqPBswSgrQ/UkAoMSZmvdI/AAAAAAAABx0/chPqf3a_r8A/s1600/DSC00319.JPG",
+          "http://4.bp.blogspot.com/-EjrSssT-ksM/UkAoTQXqpFI/AAAAAAAABx8/CfvbM7TI32M/s1600/DSC00320.JPG"]
+
   - name: "X Copa MG"
     year: 2013
     pics: ["http://1.bp.blogspot.com/-AepHPbB2SUg/UiyNelS_8iI/AAAAAAAABw8/xWUYOUmoItk/s1600/DSC00303.JPG",
