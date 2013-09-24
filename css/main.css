@@ -27,6 +27,10 @@
   transition: opacity .3s ease-in;
 }
 
+#jogosdeminas img {
+  width: 100%;
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 
