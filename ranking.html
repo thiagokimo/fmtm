@@ -11,6 +11,7 @@ title: Ranking
   <li><a href="#veterano" data-toggle="tab">Veterano</a></li>
   <li><a href="#feminino" data-toggle="tab">Feminino</a></li>
   <li><a href="#menores" data-toggle="tab">Menores</a></li>
+  <li><a href="#pne" data-toggle="tab">PNE</a></li>
 </ul>
 
 <div id="ranking-data" class="tab-content">
@@ -68,6 +69,16 @@ title: Ranking
         {% include site/menores.html %}
       </tbody>
     </table>
-
+  </div>
+  <div id="pne" class="tab-pane fade">
+    <h2>PNE</h2>
+    <table class="table table-hover">
+      <thead>
+        <th>Colocação</th><th>Atleta</th><th>Clube</th><th>Pontos</th>
+      </thead>
+      <tbody>
+        {% include site/pne.html %}
+      </tbody>
+    </table>
   </div>
 </div>
