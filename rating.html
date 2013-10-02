@@ -5,11 +5,24 @@ title: Rating
 
 <h1>Rating Estadual</h1>
 
-<table class="table table-hover">
-   <thead>
-    <th>Colocação</th><th>Atleta</th><th>Clube</th><th>Pontos</th>
-  </thead>
-  <tbody>
-    {% include site/rating.html %}
-  </tbody>
-</table>
+<div class="row">
+  <div class="col-md-11">
+    <table class="table table-hover">
+       <thead>
+        <th>Colocação</th><th>Atleta</th><th>Clube</th><th>Pontos</th>
+      </thead>
+      <tbody>
+        {% include site/rating.html %}
+      </tbody>
+    </table>
+  </div>
+  <div class="col-md-1">
+    <div class="btn-group-vertical well well-sm" data-spy="affix">
+      <span><strong>Legenda:</strong></span>
+      <a class="btn btn-success">Rating A</a>
+      <a class="btn btn-warning">Rating B</a>
+      <a class="btn btn-danger">Rating C</a>
+      <a class="btn">Rating D</a>
+    </div>
+  </div>
+</div>
