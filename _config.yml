@@ -11,12 +11,20 @@ paginate_path: "pagina-:num"
 
 excerpt_separator: "<!-- more -->"
 
-last_event: "XII Copa MG e III Etapa CMTM Individual"
+last_event: "XIV Copa MG"
 
-next_event: "XIV Copa MG"
-next_event_url: "/2013/09/26/xiv-copa-mg/"
+next_event: "XII Copa MG, 3ª Etapa do CMTM de Equipes e Final do CMTM de Duplas"
+next_event_url: "/2013/09/26/xiii-copa-mg-final-do-cmtm-de-duplas-e-iii-etapa-do-cmtm-de-equipes/"
 
 image_feed:
+  - name: "XIV Copa MG"
+    year: 2013
+    pics: ["http://3.bp.blogspot.com/-xA75-uzFBTE/UmbKV98qpPI/AAAAAAAACAU/zpB5Cct4Bj4/s1600/DSC00335.JPG",
+          "http://2.bp.blogspot.com/-b9I6ZPgITK4/UmbKXpHZlvI/AAAAAAAACAc/7qUnUWYjc-E/s1600/DSC00337.JPG",
+          "http://2.bp.blogspot.com/-QymwgQl5OL0/UmbKZGacoBI/AAAAAAAACAk/ev1MAs-PVZk/s1600/DSC00339.JPG",
+          "http://3.bp.blogspot.com/-gj94Hih7-Jg/UmbK0JDxYoI/AAAAAAAACBE/sDau6higogc/s1600/DSC00340.JPG",
+          "http://1.bp.blogspot.com/-gYYxXA3huNw/UmbK4hLjkWI/AAAAAAAACBM/MIFn6EtLAhE/s1600/DSC00348.JPG"]
+
   - name: "XII Copa MG e III Etapa CMTM Individual"
     year: 2013
     pics: ["http://3.bp.blogspot.com/-1SFk6FDF9_c/UkyDdLhN53I/AAAAAAAAB2U/w0DpILwqwDw/s1600/76112_10202232309157602_1184441786_n+(1).jpg",
