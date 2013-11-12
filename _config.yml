@@ -11,12 +11,28 @@ paginate_path: "pagina-:num"
 
 excerpt_separator: "<!-- more -->"
 
-last_event: "XIV Copa MG"
+last_event: "XV Copa MG e Etapa Final CMTM Equipes"
 
-next_event: "XV Copa MG e Final do CMTM de Equipes"
-next_event_url: "/2013/11/03/xv-copa-mg-e-final-do-cmtm-de-equipes/"
+next_event: "XVI Copa MG e CMTM Individual"
+next_event_url: "/2013/11/03/xvi-copa-mg-e-cmtm-individual/"
 
 image_feed:
+  - name: "XV Copa MG e Etapa Final CMTM Equipes"
+    year: 2013
+    pics: ["http://2.bp.blogspot.com/-tQLbIkVNc3E/UoDhT0WTcrI/AAAAAAAACDA/U3sB-xoHeho/s1600/DSC00382.JPG",
+          "http://2.bp.blogspot.com/-nb7TbgtHfhU/UoDhlZEXmLI/AAAAAAAACDM/VXRoP7ogUGA/s1600/DSC00387.JPG",
+          "http://3.bp.blogspot.com/-dqINP_5vp8M/UoDhm7MXN-I/AAAAAAAACDY/2rtl66xsyE8/s1600/DSC00388.JPG",
+          "http://1.bp.blogspot.com/-KUK3wu7ikhY/UoDhkaKPDMI/AAAAAAAACDI/Oj-JBWhKy0U/s1600/DSC00391.JPG"]
+
+  - name: "XIII Copa MG e Etapa Final CMTM Duplas"
+    year: 2013
+    pics: ["http://4.bp.blogspot.com/-Dg7mg5sBr88/UnqfFlK7WoI/AAAAAAAACCM/EakZYbmAjwU/s1600/575720_614004641984597_1601333354_n.jpg",
+          "http://4.bp.blogspot.com/-jjIqdOcltTM/UnqfDy5Nj2I/AAAAAAAACBs/Vft7gczh78g/s1600/1374785_613601485358246_238115305_n.jpg",
+          "http://3.bp.blogspot.com/-qNK71EinvJQ/UnqfEAnAriI/AAAAAAAACB0/BFbLw4yD0qM/s1600/1379590_613604538691274_2091854125_n.jpg",
+          "http://4.bp.blogspot.com/-H0Yg3Mqxlso/UnqfD04ukDI/AAAAAAAACBw/1jAMAUKByEY/s1600/1380718_614004251984636_617828289_n.jpg",
+          "http://3.bp.blogspot.com/-ng_FDRQZu3k/UnqfEt-VieI/AAAAAAAACB8/lSz4kGDAdbA/s1600/1380718_614004428651285_625583844_n.jpg",
+          "http://1.bp.blogspot.com/-6Km2njZBQWs/UnqfEy60bmI/AAAAAAAACCU/IPGZkE1Trec/s1600/1383280_613604615357933_1291733462_n.jpg"]
+
   - name: "XIV Copa MG"
     year: 2013
     pics: ["http://3.bp.blogspot.com/-xA75-uzFBTE/UmbKV98qpPI/AAAAAAAACAU/zpB5Cct4Bj4/s1600/DSC00335.JPG",
