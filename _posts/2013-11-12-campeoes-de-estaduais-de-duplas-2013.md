@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Campeões de Estaduais de Duplas 2013"
+title: "Campeões Estaduais de Duplas 2013"
 month: "Novembro"
 year: 2013
 ---
