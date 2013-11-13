@@ -1,5 +1,9 @@
 body { font-size: 15px; }
 
+.navbar-header{
+  padding-top: 10px;
+}
+
 #nav-logo {
   width: 300px;
   margin: 10px 0px 10px 0px;
