@@ -76,6 +76,7 @@ body {
 #footer > .container {
   padding-left: 15px;
   padding-right: 15px;
+  padding-top: 10px;
 }
 
 code {
