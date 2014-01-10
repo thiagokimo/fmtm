@@ -11,7 +11,7 @@ PT_BR_MONTHS = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Jul
 
 desc "Serve and watch the site (with post limit or drafts)"
 task :watch do |t, args|
-  system("jekyll serve --baseurl \"\" -w")
+  system("LC_ALL=\"en_US.UTF-8\" jekyll serve --baseurl \"\" -w")
 end
 
 # Usage: rake post title="A Title" date="2012-02-09"
