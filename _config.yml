@@ -17,6 +17,38 @@ next_event: "I Copa MG"
 next_event_url: "/2014/01/31/i-copa-mg/"
 
 image_feed:
+  - name: "Campeões da Temporada 2013"
+    year: 2013
+    pics: ["http://1.bp.blogspot.com/-accXg3BoI7k/Urx1AfoZyeI/AAAAAAAACN0/eRybS8TQssQ/s1600/DSC00484.JPG",
+          "http://4.bp.blogspot.com/-5EBziZoMiss/Urx0_7uH4RI/AAAAAAAACNw/Y0hUURyrqMY/s1600/DSC00485.JPG",
+          "http://1.bp.blogspot.com/-0TfLnHRUMdo/Urx1T_dZYpI/AAAAAAAACOA/nAY9D8qErpo/s1600/DSC00487.JPG",
+          "http://4.bp.blogspot.com/-siG1voX4n1E/Urx1a99e60I/AAAAAAAACOM/rdjjk-3MG_Q/s1600/DSC00488.JPG",
+          "http://4.bp.blogspot.com/-3IiQOfodC0I/Urx1ab4S2NI/AAAAAAAACOI/NIMQCvFhbc4/s1600/DSC00489.JPG",
+          "http://3.bp.blogspot.com/-LitVRUe8PW4/Urx16YPLnvI/AAAAAAAACOw/Nt1ExNDB0NQ/s1600/DSC00493.JPG",
+          "http://2.bp.blogspot.com/-A9q7Y0QFReQ/Urx2PTOXixI/AAAAAAAACPA/uGtaFJCuYwk/s1600/DSC00494.JPG",
+          "http://3.bp.blogspot.com/-qOlWmEigJNU/Urx2gmineSI/AAAAAAAACPQ/t2pWn2hwkLk/s1600/DSC00497.JPG",
+          "http://1.bp.blogspot.com/-ah8RSGVg3RM/Urx2qpu8nbI/AAAAAAAACPg/abevFWaSqjA/s1600/DSC00498.JPG",
+          "http://4.bp.blogspot.com/-CE6-zSg3WF8/Urx204kcu0I/AAAAAAAACPo/Jpf1hphL_FY/s1600/DSC00500.JPG",
+          "http://2.bp.blogspot.com/-6wwcPiaoglY/Urx3ECtPH3I/AAAAAAAACP4/WTs721d7Fmo/s1600/DSC00501.JPG"]
+
+  - name: "XVI Copa MG e Etapa Final CMTM Individual"
+    year: 2013
+    pics: ["http://4.bp.blogspot.com/-k35JUUXvSs4/UqITW-TK3sI/AAAAAAAACMw/DeUKyQ-wGWg/s1600/919027_608103489255103_687994892_o.jpg",
+          "http://1.bp.blogspot.com/-Vh-mR3SdC2s/UqITSNV3luI/AAAAAAAACK4/eV9DRdqvQp4/s1600/1000367_716742025005001_345235367_n.jpg",
+          "http://1.bp.blogspot.com/-Rj51q8G9Z2Y/UqITSiVZQvI/AAAAAAAACK8/jPVX2Cewcio/s1600/1392425_716741941671676_1059365504_n.jpg",
+          "http://4.bp.blogspot.com/-VzwzR1sCPew/UqITSpJJZnI/AAAAAAAACLE/IZ2w4JB6vvo/s1600/1397719_608102625921856_515455887_o.jpg",
+          "http://4.bp.blogspot.com/-DVne8j1YEV0/UqITTMjEMjI/AAAAAAAACLM/2zAIbVCx9r8/s1600/1398763_608894779175974_1776819560_o.jpg",
+          "http://1.bp.blogspot.com/-NpDtBKDi1NY/UqITTbjl65I/AAAAAAAACLU/U8uelQ3AKNA/s1600/1398854_608103492588436_926163960_o.jpg",
+          "http://1.bp.blogspot.com/-77nnEySGwjs/UqITTtSz8dI/AAAAAAAACLY/XnhFLtVdOjo/s1600/1398907_608119465920172_424492870_o.jpg",
+          "http://1.bp.blogspot.com/-YcTHQxU3tJE/UqITUA41CvI/AAAAAAAACLs/om0ZhCpFeMg/s1600/1403519_608103912588394_1979813522_o.jpg",
+          "http://3.bp.blogspot.com/-uBZR1w1AJU0/UqITUU9z6bI/AAAAAAAACL4/Ky8j882A2mg/s1600/1422375_716742068338330_1331065976_n.jpg",
+          "http://2.bp.blogspot.com/-rHev_oOvZVc/UqITUhypp1I/AAAAAAAACL0/7IfbQvJ_9ww/s1600/1425801_716741835005020_1195483745_n.jpg",
+          "http://4.bp.blogspot.com/-ROdFEcwfD0A/UqITVPe6p1I/AAAAAAAACME/vbXg8eDQaSI/s1600/1452008_549229831830783_110314549_n.jpg",
+          "http://2.bp.blogspot.com/-IMU8e2XQkuk/UqITVsHQ60I/AAAAAAAACMM/nzeNWTI89LI/s1600/1454950_549229828497450_986182995_n+(1).jpg",
+          "http://3.bp.blogspot.com/-cC4h3DP_-Ds/UqITWFOuzmI/AAAAAAAACMc/_9vkM0PyIcM/s1600/1456489_549229921830774_1504351510_n.jpg",
+          "http://2.bp.blogspot.com/-Z-bSeBJ0gQY/UqITWRh-r1I/AAAAAAAACMo/kEcciQbI7V4/s1600/1471856_549229818497451_1442287540_n.jpg",
+          "http://2.bp.blogspot.com/-pgsj2CsUIZ4/UqITWs2_JyI/AAAAAAAACMk/8SdTuiZPvPY/s1600/1472889_716617005017503_1292057453_n.jpg"]
+
   - name: "XV Copa MG e Etapa Final CMTM Equipes"
     year: 2013
     pics: ["http://2.bp.blogspot.com/-tQLbIkVNc3E/UoDhT0WTcrI/AAAAAAAACDA/U3sB-xoHeho/s1600/DSC00382.JPG",
