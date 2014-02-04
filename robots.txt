@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /noticias/
+Allow: /ranking/
+Allow: /rating/
+Allow: /calendario/
+Allow: /contato/
+Allow: /fotos/
