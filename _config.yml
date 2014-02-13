@@ -17,6 +17,26 @@ next_event: "I Copa MG"
 next_event_url: "/2014/01/31/i-copa-mg/"
 
 image_feed:
+  - name: "I Copa MG"
+    year: 2014
+    pics: ["http://3.bp.blogspot.com/-2iA6pa-H1i8/Uvu2uQRyc2I/AAAAAAAACRc/a_vVZKeFpMo/s1600/1604915_651548228235602_951803164_n.jpg",
+          "http://1.bp.blogspot.com/-Ralqjg8zrp0/Uvu2uvdqwJI/AAAAAAAACRY/mb5vFYhAbfY/s1600/1610083_651547861568972_112274684_n.jpg",
+          "http://2.bp.blogspot.com/-mSyNsfzx2ZQ/Uvu2ufJa0iI/AAAAAAAACRU/0zPpup5rM3s/s1600/1620987_651547498235675_204569114_n.jpg",
+          "http://1.bp.blogspot.com/-7jNvvkdpfRI/Uvu2vTIHHTI/AAAAAAAACRk/RA6ollJV1xo/s1600/1653979_651547418235683_881592543_n.jpg",
+          "http://1.bp.blogspot.com/-eCJcFJc8JvM/Uvu2vZcfp7I/AAAAAAAACRs/vy_U94FFp0M/s1600/1780646_651547541569004_1347268103_n.jpg",
+          "http://1.bp.blogspot.com/-MCCMfiDsQDo/Uvu2vwl-_qI/AAAAAAAACR0/ojNpUbyTgWk/s1600/1794782_651547824902309_800007854_n.jpg",
+          "http://3.bp.blogspot.com/-6cRQDAswbFk/Uvu2wPqjbzI/AAAAAAAACR4/6hkacdcKz74/s1600/1891181_651547794902312_1790912457_n.jpg",
+          "http://1.bp.blogspot.com/-E-x1VC7pdQA/Uvu2wW61wCI/AAAAAAAACSU/mKb4V2Rn3HU/s1600/1911623_651547934902298_2037048788_n.jpg",
+          "http://3.bp.blogspot.com/-q75CQ4RjOtM/Uvu2w50gZJI/AAAAAAAACSQ/u4adpqDnhlY/s1600/1911940_651548184902273_2111016461_n.jpg",
+          "http://2.bp.blogspot.com/-sQk2OeH9P_o/Uvu2xCyIp4I/AAAAAAAACSM/RRNGTsT-o80/s1600/1924494_651548061568952_2046803825_n.jpg",
+          "http://1.bp.blogspot.com/-ZI7mN7_Ypvw/Uvu3QucjtwI/AAAAAAAACS0/KlT5OFGN2xk/s1600/DSC00541.JPG",
+          "http://3.bp.blogspot.com/-bGpwG3MCbJE/Uvu3FmfKAUI/AAAAAAAACSo/87XWYIJnNNw/s1600/DSC00543.JPG",
+          "http://1.bp.blogspot.com/-McE3UR20CcM/Uvu3FHov_jI/AAAAAAAACSk/RA8IOzXf3NE/s1600/DSC00545.JPG",
+          "http://3.bp.blogspot.com/-9uiykQahtIQ/Uvu3RiRLlDI/AAAAAAAACS8/bMQG9Pb1UBo/s1600/DSC00559.JPG",
+          "http://4.bp.blogspot.com/-Eg8Hl1LJhV8/Uvu3ULQIA2I/AAAAAAAACTE/WVKn73Hl5IM/s1600/DSC00563.JPG",
+          "http://1.bp.blogspot.com/-NUpSVOon3D4/Uvu3eCSq86I/AAAAAAAACTQ/_4-DH781_1o/s1600/DSC00566.JPG",
+          "http://1.bp.blogspot.com/-Blu56zLvefY/Uvu3es-XvBI/AAAAAAAACTM/H7EEo9uJmZU/s1600/DSC00568.JPG"]
+
   - name: "Campeões da Temporada 2013"
     year: 2013
     pics: ["http://1.bp.blogspot.com/-accXg3BoI7k/Urx1AfoZyeI/AAAAAAAACN0/eRybS8TQssQ/s1600/DSC00484.JPG",
