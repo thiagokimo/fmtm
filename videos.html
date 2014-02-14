@@ -1,0 +1,25 @@
+---
+layout: default
+title: Vídeos
+---
+
+<h1>Vídeos</h1>
+<hr>
+
+{% for event in site.event_feed %}
+  {% if event.videos %}
+    <div class="row">
+      <h3>{{event.name}} - {{event.year}}</h3>
+
+      {% for video in event.videos %}
+        <div class="row text-center">
+          <iframe width="560" height="315" src="//www.youtube.com/embed/{{video}}" frameborder="0" allowfullscreen></iframe>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+{% endfor %}
+
+
+
+

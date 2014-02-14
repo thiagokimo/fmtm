@@ -16,9 +16,10 @@ last_event: "Campeões da Temporada 2013"
 next_event: "I Copa MG"
 next_event_url: "/2014/01/31/i-copa-mg/"
 
-image_feed:
+event_feed:
   - name: "I Copa MG"
     year: 2014
+    videos: ["iAqwWJBcN50"]
     pics: ["http://3.bp.blogspot.com/-2iA6pa-H1i8/Uvu2uQRyc2I/AAAAAAAACRc/a_vVZKeFpMo/s1600/1604915_651548228235602_951803164_n.jpg",
           "http://1.bp.blogspot.com/-Ralqjg8zrp0/Uvu2uvdqwJI/AAAAAAAACRY/mb5vFYhAbfY/s1600/1610083_651547861568972_112274684_n.jpg",
           "http://2.bp.blogspot.com/-mSyNsfzx2ZQ/Uvu2ufJa0iI/AAAAAAAACRU/0zPpup5rM3s/s1600/1620987_651547498235675_204569114_n.jpg",

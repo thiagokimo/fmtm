@@ -1,5 +1,5 @@
 <div id="lightbox">
-  {% for event in site.image_feed %}
+  {% for event in site.event_feed %}
     {% if event.name == page.event_name and event.year == page.year  %}
       {% for pic in event.pics %}
         <a href="{{pic}}" title="{{event.name}}">

@@ -1,7 +1,7 @@
 <div class="well">
   <center><h2>Imagens da {{site.last_event}}</h2></center>
   <div id="links" style="display:none;">
-    {% for event in site.image_feed %}
+    {% for event in site.event_feed %}
       {% if forloop.first %}
         {% for pic in event.pics %}
           <a href="{{pic}}">
