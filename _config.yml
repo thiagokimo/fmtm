@@ -11,10 +11,10 @@ paginate_path: "pagina-:num"
 
 excerpt_separator: "<!-- more -->"
 
-last_event: "Campeões da Temporada 2013"
+last_event: "I Copa MG"
 
-next_event: "II Copa MG e 1ª Etapa do CMTM de Duplas"
-next_event_url: "/2014/02/21/ii-copa-mg-e-i-cmtm-de-duplas/"
+next_event: "III Copa MG e 1ª Etapa do CMTM de Equipes"
+next_event_url: ""
 
 event_feed:
   - name: "I Copa MG"
