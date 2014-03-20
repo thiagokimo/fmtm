@@ -11,12 +11,24 @@ paginate_path: "pagina-:num"
 
 excerpt_separator: "<!-- more -->"
 
-last_event: "I Copa MG"
+last_event: "II Copa MG e I Etapa do CMTM Duplas"
 
 next_event: "III Copa MG e 1ª Etapa do CMTM de Equipes"
 next_event_url: ""
 
 event_feed:
+  - name: "II Copa MG e I Etapa do CMTM Duplas"
+    year: 2014
+    videos: ["Qpmxjhz0xYI"] 
+    pics: ["http://3.bp.blogspot.com/-t8YctJCIoaw/UypDF7bF1cI/AAAAAAAACTo/b4aQwWaSc_o/s1600/DSC00585.JPG",
+          "http://1.bp.blogspot.com/-WeodNVwW5ek/UypDLxcp-uI/AAAAAAAACTw/x1WG8yJDj1o/s1600/DSC00587.JPG",
+          "http://3.bp.blogspot.com/-JFWEOtSFB58/UypDOYc66SI/AAAAAAAACT4/XeFBpdjpWcQ/s1600/DSC00590.JPG",
+          "http://4.bp.blogspot.com/-4-VOvXETsk4/UypFNH540MI/AAAAAAAACUE/RC5RTT7oJ_k/s1600/DSC00592.JPG",
+          "http://2.bp.blogspot.com/-M4yi93rflok/UypFiAuLVRI/AAAAAAAACUM/D7N7Q2G7V28/s1600/DSC00595.JPG",
+          "http://4.bp.blogspot.com/-Hd-mypz98qM/UypFnbv_dVI/AAAAAAAACUU/byI3BJUHxyk/s1600/DSC00598.JPG",
+          "http://3.bp.blogspot.com/-5INEdbbqLZ8/UypGFg7pSEI/AAAAAAAACUc/tYNr2J41S9M/s1600/DSC00601.JPG",
+          "http://3.bp.blogspot.com/-B9seP5GVibc/UypGGF2eUtI/AAAAAAAACUg/wTRMb1KnOsM/s1600/DSC00602.JPG"]
+
   - name: "I Copa MG"
     year: 2014
     videos: ["iAqwWJBcN50"]
