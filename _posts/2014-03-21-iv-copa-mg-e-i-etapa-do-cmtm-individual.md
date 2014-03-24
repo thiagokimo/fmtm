@@ -38,7 +38,7 @@ As inscrições deverão ser efetuadas através do e-mail: perfilmg@hotmail.com
 ou através dos telefones (31) 9128-8020 / (31) 8815-2588 / (31) 3356-5588 até
 às 18:00 horas do dia 16/03 (quarta-feira). <br/>
 
-Copa MG (01 Ranking e Rating): R$20,00 / Absoluto: R$20,00 / CMTM : R$20,00 (p/ evento) <br/>
+Copa MG (01 Ranking e Rating): R$20,00 / CMTM : R$20,00 (p/ evento) <br/>
 Iniciantes: R$20,00 <br/>
 Evento extra: R$20,00
 
@@ -47,9 +47,9 @@ O prazo para reclamação é de 24 horas após o término do prazo de inscriçã
 
 ###6. Condições de Participação
 ####6.1 Atletas
-  6.1.1 - Situações cadastrais FMTM / CBTM atualizadas até a data da inscrição. <br/>
+  6.1.1 - Situações cadastrais FMTM / CBTM atualizadas até a data da inscrição. <br/>
   6.1.2 - TRA 2014 FMTM e CBTM pagas. <br/>
-  6.1.3 - Inscrições: o pagamento poderá ser realizado no dia do evento, caso a inscrição seja confirmada até às 18:00 horas do dia 16/04 (quarta-feira). <br/>
+  6.1.3 - Inscrições: o pagamento poderá ser realizado no dia do evento, caso a inscrição seja confirmada até às 18:00 horas do dia 16/04 (quarta-feira). <br/>
   6.1.4 - Apresentação de documento original de identidade quando solicitado.
 
 ####6.2 Técnicos
@@ -90,13 +90,12 @@ Serão disponibilizadas 06 mesas para os jogos oficiais e 02 mesas para a
 categoria Iniciantes.
 
 ###10. CMTM Individual
-As inscrições para a I Etapa do CMTM Individual deverão ser efetuadas até às
-18:00 horas do dia 16/04 (quarta-feira). A inscrição na IV Copa MG não dá
-direito à participação automática na I Etapa do CMTM Individual. O pagamento
-da inscrição para a I Etapa do CMTM Individual poderá ser efetuado até o dia
-20/04 (domingo). Inscrições para a I Etapa do CMTM Individual: R$ 20,00 p/
-evento. Serão ofertados troféus para os 1º, 2º e 3º melhores classificados em
-cada categoria. Os eventos seguirão todas as normas da temporada 2014.
+As inscrições para a I Etapa do CMTM Individual deverão ser efetuadas até às 18:00 horas do dia 16/04 (quarta-feira).
+A inscrição na IV Copa MG não dá direito à participação automática na I Etapa do CMTM Individual.
+O pagamento da inscrição para a I Etapa do CMTM Individual poderá ser efetuado até o dia 20/04 (domingo).
+Inscrições para a I Etapa do CMTM Individual: R$ 20,00 p/ evento.
+Serão ofertados troféus para os 1º, 2º e 3º melhores classificados em cada categoria. 
+Os eventos seguirão todas as normas da temporada 2014.
 
 <center>
   Túlio Eduardo <br/>
