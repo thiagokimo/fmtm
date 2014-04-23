@@ -2,7 +2,7 @@ name: Federação Mineira de Tênis de Mesa
 markdown: redcarpet
 pygments: true
 
-baseurl: http://fmtm.net
+baseurl: http://thiagokimo.github.io/fmtm
 
 permalink: pretty
 
