@@ -1,6 +1,8 @@
 FMTM - Federação Mineira de Tênis de Mesa
 ====
 
+***THIS WEBSITE IS NO LONGER OFFICIAL
+
 Source code of Federação Mineira de Tênis de Mesa website. 
 
 You can access its current version [here](http://fmtm.net/ "here").
